@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayToMatrix.cs" />
-    <Compile Include="MatrixToArray.cs" />
+    <Compile Include="Lab_1\ArrayToMatrix.cs" />
+    <Compile Include="Lab_2\MatrixP.cs" />
+    <Compile Include="Lab_2\RectangularMatrix.cs" />
+    <Compile Include="Lab_2\SquareMatrix.cs" />
+    <Compile Include="Lab_1\MatrixToArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

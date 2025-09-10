@@ -1,21 +1,81 @@
-﻿using System;
-using Matrix;
+﻿using Matrix;
+using Matrix.Lab_2;
+using System;
 
 namespace Matrix
 {
     class Program
     {
+
+        static void Lab_2()
+        {
+            Console.WriteLine("=== ТЕСТИРОВАНИЕ МАТРИЦ ===");
+
+            // Тестируем квадратные матрицы
+            Console.WriteLine("\n1. КВАДРАТНЫЕ МАТРИЦЫ:");
+
+            SquareMatrix sq1 = new SquareMatrix(3);
+            SquareMatrix sq2 = new SquareMatrix(3);
+
+            sq1.FillRandom(1, 5);
+            sq2.FillRandom(1, 5);
+
+            Console.WriteLine("Матрица A:");
+            sq1.Print();
+
+            Console.WriteLine("Матрица B:");
+            sq2.Print();
+
+            Console.WriteLine("A + B:");
+            MatrixP sum = sq1.Add(sq2);
+            sum.Print();
+
+            Console.WriteLine("A - B:");
+            MatrixP diff = sq1.Subtract(sq2);
+            diff.Print();
+
+            // Тестируем прямоугольные матрицы
+            Console.WriteLine("\n2. ПРЯМОУГОЛЬНЫЕ МАТРИЦЫ:");
+
+            RectangularMatrix rect1 = new RectangularMatrix(2, 3);
+            RectangularMatrix rect2 = new RectangularMatrix(3, 2);
+
+            rect1.FillRandom(1, 5);
+            rect2.FillRandom(1, 5);
+
+            Console.WriteLine("Матрица C (2x3):");
+            rect1.Print();
+
+            Console.WriteLine("Матрица D (3x2):");
+            rect2.Print();
+
+            Console.WriteLine("C * D:");
+            MatrixP product = rect1.Multiply(rect2);
+            product.Print();
+
+            Console.WriteLine("Умножение на число (2.5):");
+            MatrixP scaled = rect1.Multiply(2.5);
+            scaled.Print();
+
+            // Тестируем индексатор
+            Console.WriteLine("\n3. РАБОТА С ИНДЕКСАТОРОМ:");
+            Console.WriteLine($"rect1[0,1] = {rect1[0, 1]:F2}");
+            rect1[1, 2] = 99.99;
+            Console.WriteLine("После rect1[1,2] = 99.99:");
+            rect1.Print();
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Тестирование");
+            //Console.WriteLine("Тестирование");
 
-            // Тест 1: Преобразование матрицы в массив и обратно
-            TestConversion();
+            //// Тест 1: Преобразование матрицы в массив и обратно
+            //TestConversion();
 
-            // Тест 2: Проверка на некорректные данные
-            TestInvalidData();
+            //// Тест 2: Проверка на некорректные данные
+            //TestInvalidData();
 
-            Console.WriteLine("\nВсе тесты завершены!");
+            //Console.WriteLine("\nВсе тесты завершены!");
+            Lab_2();
             Console.ReadKey();
         }
 
