@@ -12,10 +12,13 @@
       "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_1\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{FEAE71AB-654B-42FF-BDAE-DBD15D2D7EA7}|Test\\Test.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEAE71AB-654B-42FF-BDAE-DBD15D2D7EA7}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrix\\lab_1\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_1\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,28 +30,24 @@
       "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrix\\lab_2\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_2\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
-      "AbsoluteMoniker": "D:0:0:{FEAE71AB-654B-42FF-BDAE-DBD15D2D7EA7}|Test\\Test.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEAE71AB-654B-42FF-BDAE-DBD15D2D7EA7}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_2\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matrix\\lab_2\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_1\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_1\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_2\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matrix\\lab_2\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_1\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_1\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_2\\matrixp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matrix\\lab_2\\matrixp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_2\\matrixp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_2\\matrixp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_1\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matrix\\lab_1\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_2\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_2\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_2\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\lab_2\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\matrix\\lab_1\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matrix\\lab_1\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Stashed changes
     }
   ],
@@ -63,8 +62,8 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
 <<<<<<< Updated upstream
+              "DocumentIndex": 5,
               "Title": "RectangularMatrix.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_2\\RectangularMatrix.cs",
               "RelativeDocumentMoniker": "Matrix\\Lab_2\\RectangularMatrix.cs",
@@ -73,27 +72,20 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T10:05:23.584Z"
-=======
-              "Title": "SquareMatrix.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_2\\SquareMatrix.cs",
-              "RelativeDocumentMoniker": "Matrix\\Lab_2\\SquareMatrix.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_2\\SquareMatrix.cs",
-              "RelativeToolTip": "Matrix\\Lab_2\\SquareMatrix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:55:31.349Z",
-              "EditorCaption": ""
->>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 1,
+>>>>>>> Stashed changes
               "Title": "SquareMatrix.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_2\\SquareMatrix.cs",
               "RelativeDocumentMoniker": "Matrix\\Lab_2\\SquareMatrix.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_2\\SquareMatrix.cs",
               "RelativeToolTip": "Matrix\\Lab_2\\SquareMatrix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+<<<<<<< Updated upstream
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T09:55:31.349Z",
               "EditorCaption": ""
@@ -113,17 +105,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:55:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+>>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
-<<<<<<< Updated upstream
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test\\Program.cs*",
-              "RelativeToolTip": "Test\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-=======
               "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+<<<<<<< Updated upstream
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
 >>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:14:10.309Z",
@@ -133,8 +132,16 @@
               "$type": "Document",
 <<<<<<< Updated upstream
               "DocumentIndex": 3,
+              "Title": "ArrayToMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_1\\ArrayToMatrix.cs",
+              "RelativeDocumentMoniker": "Matrix\\Lab_1\\ArrayToMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_1\\ArrayToMatrix.cs",
+              "RelativeToolTip": "Matrix\\Lab_1\\ArrayToMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:12:53.257Z"
 =======
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "RectangularMatrix.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_2\\RectangularMatrix.cs",
               "RelativeDocumentMoniker": "Matrix\\Lab_2\\RectangularMatrix.cs",
@@ -142,8 +149,8 @@
               "RelativeToolTip": "Matrix\\Lab_2\\RectangularMatrix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:05:23.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:05:23.584Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
@@ -155,13 +162,11 @@
               "RelativeToolTip": "Matrix\\Lab_2\\MatrixP.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:45:54.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T09:45:54.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
->>>>>>> Stashed changes
+              "DocumentIndex": 4,
               "Title": "ArrayToMatrix.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_1\\ArrayToMatrix.cs",
               "RelativeDocumentMoniker": "Matrix\\Lab_1\\ArrayToMatrix.cs",
@@ -173,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MatrixToArray.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Matrix\\Lab_1\\MatrixToArray.cs",
               "RelativeDocumentMoniker": "Matrix\\Lab_1\\MatrixToArray.cs",
@@ -181,8 +186,7 @@
               "RelativeToolTip": "Matrix\\Lab_1\\MatrixToArray.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:09:10.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T12:09:10.415Z"
             }
           ]
         }
