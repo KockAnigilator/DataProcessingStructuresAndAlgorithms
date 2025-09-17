@@ -1,6 +1,8 @@
 ﻿using Matrix;
 using Matrix.Lab_2;
+using Matrix.Lab_3;
 using System;
+using System.Threading.Tasks;
 
 namespace Matrix
 {
@@ -65,6 +67,9 @@ namespace Matrix
         }
         static void Main(string[] args)
         {
+            //ЛАБОРАТОРНАЯ РАБОТА №1
+
+
             //Console.WriteLine("Тестирование");
 
             //// Тест 1: Преобразование матрицы в массив и обратно
@@ -74,7 +79,28 @@ namespace Matrix
             //TestInvalidData();
 
             //Console.WriteLine("\nВсе тесты завершены!");
-            Lab_2();
+
+
+
+            //ЛАБОРАТОРНАЯ РАБОТА №2
+
+
+            //Lab_2();
+
+
+            // ЛАБОРАТОРНАЯ РАБОТА №3
+
+
+
+
+            //Task_2 task_2 = new Task_2();
+
+            int[] arr = { 9, 25, 1, -2, 5, 99, 7 };
+
+            //task_2.Swap(arr, 0, 5);
+
+
+   
             Console.ReadKey();
         }
 
