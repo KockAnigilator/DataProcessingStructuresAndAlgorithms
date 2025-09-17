@@ -93,7 +93,9 @@ namespace Matrix.Lab_2
             {
                 // Умножение на прямоугольную матрицу
                 if (Size != other.Rows)
+                {
                     throw new ArgumentException("Количество столбцов не совпадает с количеством строк второй матрицы");
+                }
 
                 MatrixP result = new RectangularMatrix(Size, other.Columns);
 

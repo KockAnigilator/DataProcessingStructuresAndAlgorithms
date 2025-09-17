@@ -6,7 +6,6 @@ namespace Matrix
 {
     class Program
     {
-
         static void Lab_2()
         {
             Console.WriteLine("=== ТЕСТИРОВАНИЕ МАТРИЦ ===");
