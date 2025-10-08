@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Converters.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\Converters.cs",
               "RelativeDocumentMoniker": "TicketUI\\ViewModel\\Converters.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\Converters.cs",
               "RelativeToolTip": "TicketUI\\ViewModel\\Converters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T06:19:08.225Z",
               "EditorCaption": ""
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TicketUI\\MainWindow.xaml",
@@ -115,7 +115,7 @@
               "RelativeDocumentMoniker": "TicketUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "TicketUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T06:06:16.833Z",
               "EditorCaption": ""
