@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketui\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketgenerator\\ticketgeneratoralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\ticketgeneratoralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketgenerator\\generationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\generationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketgenerator\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketgenerator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ticketgenerator\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4184FD0D-6405-4E52-88F8-885A5380C8EB}|BallStrengthModel\\BallStrengthModel.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\ballstrengthmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4184FD0D-6405-4E52-88F8-885A5380C8EB}|BallStrengthModel\\BallStrengthModel.csproj|solutionrelative:ballstrengthmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,14 +59,143 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\Converters.cs",
+              "RelativeDocumentMoniker": "TicketUI\\ViewModel\\Converters.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\Converters.cs",
+              "RelativeToolTip": "TicketUI\\ViewModel\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:19:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "TicketUI\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "TicketUI\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:13:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "TicketUI\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "TicketUI\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:06:46.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicketUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml",
+              "RelativeToolTip": "TicketUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T06:06:17.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicketUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicketUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:06:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketGeneratorAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "RelativeToolTip": "TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:04:44.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\GenerationSettings.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\GenerationSettings.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\GenerationSettings.cs",
+              "RelativeToolTip": "TicketGenerator\\GenerationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:03:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Ticket.cs",
+              "RelativeToolTip": "TicketGenerator\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:03:34.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Task.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\Task.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Task.cs",
+              "RelativeToolTip": "TicketGenerator\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:03:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskType.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TaskType.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\TaskType.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TaskType.cs",
+              "RelativeToolTip": "TicketGenerator\\TaskType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:02:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\BallStrengthModel\\Program.cs",
               "RelativeDocumentMoniker": "BallStrengthModel\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\BallStrengthModel\\Program.cs*",
-              "RelativeToolTip": "BallStrengthModel\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\BallStrengthModel\\Program.cs",
+              "RelativeToolTip": "BallStrengthModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:38:31.745Z",
+              "WhenOpened": "2025-10-08T05:52:28.818Z",
               "EditorCaption": ""
             }
           ]

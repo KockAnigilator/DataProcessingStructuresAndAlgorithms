@@ -15,7 +15,6 @@ C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\T
 C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\bin\Debug\Matrix.dll
 C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\bin\Debug\Matrix.pdb
 C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\obj\Debug\Test.exe.config
 C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\obj\Debug\Test.csproj.Up2Date
 C:\Users\Dmitriy\Documents\GitHub\DataProcessingStructuresAndAlgorithms\Matrix\Test\obj\Debug\Test.exe
