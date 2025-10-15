@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Matrix
+namespace Lab_1.MatrixConverter
 {
     public class ArrayToMatrix
     {

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C035A578-442A-4F53-B809-F4316FAE6FD9}</ProjectGuid>
+    <ProjectGuid>{93F259C1-428D-44F3-B1F7-88CFD4BC7596}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Matrix</RootNamespace>
-    <AssemblyName>Matrix</AssemblyName>
+    <RootNamespace>Tasks</RootNamespace>
+    <AssemblyName>Tasks</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,9 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Lab_3\" />
+    <Compile Include="EggDroppingSolver.cs" />
+    <Compile Include="InPlaceSwap.cs" />
+    <Compile Include="InsertionSort.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
