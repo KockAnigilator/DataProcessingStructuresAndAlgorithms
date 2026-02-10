@@ -1,18 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\",
+  "WorkspaceRootPath": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEAE71AB-654B-42FF-BDAE-DBD15D2D7EA7}|Test\\Test.csproj|c:\\users\\dmitriy\\source\\repos\\matrix\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEAE71AB-654B-42FF-BDAE-DBD15D2D7EA7}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1905FFDA-BC43-4CF4-B0B1-6FC4173FAD2F}|Test_Lab_4\\Test_Lab_4.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\test_lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1905FFDA-BC43-4CF4-B0B1-6FC4173FAD2F}|Test_Lab_4\\Test_Lab_4.csproj|solutionrelative:test_lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|C:\\Users\\Dmitriy\\source\\repos\\Matrix\\matrix\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D1B87F-FF49-4FEA-B957-E631A65619CD}|Test_Lab_3\\Test_Lab_3.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\test_lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D1B87F-FF49-4FEA-B957-E631A65619CD}|Test_Lab_3\\Test_Lab_3.csproj|solutionrelative:test_lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|C:\\Users\\Dmitriy\\source\\repos\\Matrix\\matrix\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C035A578-442A-4F53-B809-F4316FAE6FD9}|Matrix\\Matrix.csproj|solutionrelative:matrix\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78F50D90-FEFD-4411-A044-C74AC5DAF3D2}|StackRealisation\\StackRealisation.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\stackrealisation\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F50D90-FEFD-4411-A044-C74AC5DAF3D2}|StackRealisation\\StackRealisation.csproj|solutionrelative:stackrealisation\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F50D90-FEFD-4411-A044-C74AC5DAF3D2}|StackRealisation\\StackRealisation.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\stackrealisation\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F50D90-FEFD-4411-A044-C74AC5DAF3D2}|StackRealisation\\StackRealisation.csproj|solutionrelative:stackrealisation\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B2D4E2-547D-40F5-AF6D-578249E12815}|TestQueue\\Test_Lab_6.csproj|c:\\users\\dmitriy\\documents\\github\\dataprocessingstructuresandalgorithms\\matrix\\testqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B2D4E2-547D-40F5-AF6D-578249E12815}|TestQueue\\Test_Lab_6.csproj|solutionrelative:testqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F259C1-428D-44F3-B1F7-88CFD4BC7596}|Tasks\\Tasks.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\tasks\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F259C1-428D-44F3-B1F7-88CFD4BC7596}|Tasks\\Tasks.csproj|solutionrelative:tasks\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F259C1-428D-44F3-B1F7-88CFD4BC7596}|Tasks\\Tasks.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\tasks\\inplaceswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F259C1-428D-44F3-B1F7-88CFD4BC7596}|Tasks\\Tasks.csproj|solutionrelative:tasks\\inplaceswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F259C1-428D-44F3-B1F7-88CFD4BC7596}|Tasks\\Tasks.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\tasks\\eggdroppingsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F259C1-428D-44F3-B1F7-88CFD4BC7596}|Tasks\\Tasks.csproj|solutionrelative:tasks\\eggdroppingsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4932DB-4217-4D9A-99A5-603C2EA5FAF4}|MatrixTest\\MatrixTest.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4932DB-4217-4D9A-99A5-603C2EA5FAF4}|MatrixTest\\MatrixTest.csproj|solutionrelative:matrixtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1A3670-A8EC-4217-AE77-D57120011980}|MatrixConverter\\MatrixConverter.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixconverter\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1A3670-A8EC-4217-AE77-D57120011980}|MatrixConverter\\MatrixConverter.csproj|solutionrelative:matrixconverter\\matrixtoarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60643A53-A876-4B3C-B1F2-5613201AD3A2}|MatrixConverterTest\\MatrixConverterTest.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixconvertertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60643A53-A876-4B3C-B1F2-5613201AD3A2}|MatrixConverterTest\\MatrixConverterTest.csproj|solutionrelative:matrixconvertertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1A3670-A8EC-4217-AE77-D57120011980}|MatrixConverter\\MatrixConverter.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixconverter\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1A3670-A8EC-4217-AE77-D57120011980}|MatrixConverter\\MatrixConverter.csproj|solutionrelative:matrixconverter\\arraytomatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixlibrary\\diagonalmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|solutionrelative:matrixlibrary\\diagonalmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixlibrary\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|solutionrelative:matrixlibrary\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixlibrary\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|solutionrelative:matrixlibrary\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\matrixlibrary\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C2E7E-C41D-4149-AB09-FDD14C083200}|MatrixLibrary\\MatrixLibrary.csproj|solutionrelative:matrixlibrary\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B53386-8D57-4F20-B218-CD142EEBA5AB}|QueueLearning\\QueueLearning.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\queuelearning\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B53386-8D57-4F20-B218-CD142EEBA5AB}|QueueLearning\\QueueLearning.csproj|solutionrelative:queuelearning\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B53386-8D57-4F20-B218-CD142EEBA5AB}|QueueLearning\\QueueLearning.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\queuelearning\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B53386-8D57-4F20-B218-CD142EEBA5AB}|QueueLearning\\QueueLearning.csproj|solutionrelative:queuelearning\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketui\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFBCA5A-441E-45BD-9A0D-5895C5D82BB6}|TicketUI\\TicketUI.csproj|solutionrelative:ticketui\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketgenerator\\ticketgeneratoralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\ticketgeneratoralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketgenerator\\generationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\generationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketgenerator\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketgenerator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\ticketgenerator\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3149AD3-E9E7-4C2E-ACA1-D4248358E6AE}|TicketGenerator\\TicketGenerator.csproj|solutionrelative:ticketgenerator\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,40 +128,341 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test_Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Lab_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test_Lab_4\\Program.cs",
+              "RelativeToolTip": "Test_Lab_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:14:10.309Z",
+              "WhenOpened": "2025-10-15T16:48:17.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArrayToMatrix.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\Matrix\\ArrayToMatrix.cs",
-              "RelativeDocumentMoniker": "Matrix\\ArrayToMatrix.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\Matrix\\ArrayToMatrix.cs",
-              "RelativeToolTip": "Matrix\\ArrayToMatrix.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAwAAAAAAAAAA==",
+              "Title": "ArrayStack.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\StackRealisation\\ArrayStack.cs",
+              "RelativeDocumentMoniker": "StackRealisation\\ArrayStack.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\StackRealisation\\ArrayStack.cs",
+              "RelativeToolTip": "StackRealisation\\ArrayStack.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:12:53.257Z",
+              "WhenOpened": "2025-10-15T16:47:38.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MatrixToArray.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\Matrix\\MatrixToArray.cs",
-              "RelativeDocumentMoniker": "Matrix\\MatrixToArray.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\Matrix\\Matrix\\MatrixToArray.cs",
-              "RelativeToolTip": "Matrix\\MatrixToArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test_Lab_3\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Lab_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Test_Lab_3\\Program.cs",
+              "RelativeToolTip": "Test_Lab_3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwKYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:09:10.415Z",
+              "WhenOpened": "2025-10-15T10:33:19.675Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedStack.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\StackRealisation\\LinkedStack.cs",
+              "RelativeDocumentMoniker": "StackRealisation\\LinkedStack.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\StackRealisation\\LinkedStack.cs",
+              "RelativeToolTip": "StackRealisation\\LinkedStack.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:39:39.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatrixToArray.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixConverter\\MatrixToArray.cs",
+              "RelativeDocumentMoniker": "MatrixConverter\\MatrixToArray.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixConverter\\MatrixToArray.cs",
+              "RelativeToolTip": "MatrixConverter\\MatrixToArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:11:44.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixConverterTest\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixConverterTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixConverterTest\\Program.cs",
+              "RelativeToolTip": "MatrixConverterTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:12:22.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixTest\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixTest\\Program.cs",
+              "RelativeToolTip": "MatrixTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:22:14.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InPlaceSwap.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Tasks\\InPlaceSwap.cs",
+              "RelativeDocumentMoniker": "Tasks\\InPlaceSwap.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Tasks\\InPlaceSwap.cs",
+              "RelativeToolTip": "Tasks\\InPlaceSwap.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:30:54.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EggDroppingSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Tasks\\EggDroppingSolver.cs",
+              "RelativeDocumentMoniker": "Tasks\\EggDroppingSolver.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Tasks\\EggDroppingSolver.cs",
+              "RelativeToolTip": "Tasks\\EggDroppingSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:30:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TestQueue\\Program.cs",
+              "RelativeDocumentMoniker": "TestQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TestQueue\\Program.cs",
+              "RelativeToolTip": "TestQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:08:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Tasks\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "Tasks\\InsertionSort.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\Tasks\\InsertionSort.cs",
+              "RelativeToolTip": "Tasks\\InsertionSort.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwIAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:30:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiagonalMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\DiagonalMatrix.cs",
+              "RelativeDocumentMoniker": "MatrixLibrary\\DiagonalMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\DiagonalMatrix.cs",
+              "RelativeToolTip": "MatrixLibrary\\DiagonalMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:20:30.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArrayToMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixConverter\\ArrayToMatrix.cs",
+              "RelativeDocumentMoniker": "MatrixConverter\\ArrayToMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixConverter\\ArrayToMatrix.cs",
+              "RelativeToolTip": "MatrixConverter\\ArrayToMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:11:03.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\Matrix.cs",
+              "RelativeDocumentMoniker": "MatrixLibrary\\Matrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\Matrix.cs",
+              "RelativeToolTip": "MatrixLibrary\\Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:18:08.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RectangularMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\RectangularMatrix.cs",
+              "RelativeDocumentMoniker": "MatrixLibrary\\RectangularMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\RectangularMatrix.cs",
+              "RelativeToolTip": "MatrixLibrary\\RectangularMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:27:00.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SquareMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\SquareMatrix.cs",
+              "RelativeDocumentMoniker": "MatrixLibrary\\SquareMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\MatrixLibrary\\SquareMatrix.cs",
+              "RelativeToolTip": "MatrixLibrary\\SquareMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:20:00.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\QueueLearning\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "QueueLearning\\PriorityQueue.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\QueueLearning\\PriorityQueue.cs",
+              "RelativeToolTip": "QueueLearning\\PriorityQueue.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:06:54.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CircularQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\QueueLearning\\CircularQueue.cs",
+              "RelativeDocumentMoniker": "QueueLearning\\CircularQueue.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\QueueLearning\\CircularQueue.cs",
+              "RelativeToolTip": "QueueLearning\\CircularQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:08:26.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\Converters.cs",
+              "RelativeDocumentMoniker": "TicketUI\\ViewModel\\Converters.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\Converters.cs",
+              "RelativeToolTip": "TicketUI\\ViewModel\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:19:08.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "TicketUI\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "TicketUI\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:13:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "TicketUI\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "TicketUI\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:06:46.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicketUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml",
+              "RelativeToolTip": "TicketUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T06:06:17.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicketUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicketUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:06:16.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TicketGeneratorAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "RelativeToolTip": "TicketGenerator\\TicketGeneratorAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:04:44.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenerationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\GenerationSettings.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\GenerationSettings.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\GenerationSettings.cs",
+              "RelativeToolTip": "TicketGenerator\\GenerationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:03:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Ticket.cs",
+              "RelativeToolTip": "TicketGenerator\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:03:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Task.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\Task.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\Task.cs",
+              "RelativeToolTip": "TicketGenerator\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:03:14.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskType.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TaskType.cs",
+              "RelativeDocumentMoniker": "TicketGenerator\\TaskType.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\DataProcessingStructuresAndAlgorithms\\Matrix\\TicketGenerator\\TaskType.cs",
+              "RelativeToolTip": "TicketGenerator\\TaskType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:02:20.729Z"
             }
           ]
         }
